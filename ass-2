@@ -1,0 +1,7 @@
+write a program to remove student details in dictionary. 
+d={1:['Sahi','female','MECS','FAIL'],2:['B.H.S.PHANI','MALE','MECS','PASS'],3:['DIVYA','FEMALE','MPCS','PASS'],4:['RAMCHARAN','MALE','B.COM','FAIL'],5:['SAI','FEMALE','MPC','PASS']}
+d.clear()
+print(d)
+
+output:
+{}
